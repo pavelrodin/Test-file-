@@ -1,10 +1,5 @@
 # Markdown?!
 
-
-
-Test changes. 
-
-
 This file is both a text file, and a markdown file.
 
 Markdown is a simple set of formatting instructions that let you add formatting to a text file. Markdown was developed by John Gruber and Aaron Swartz, and the specification is still on John Gruber's website: https://daringfireball.net/projects/markdown/
